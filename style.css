@@ -1,0 +1,173 @@
+*{
+    --primary-color:#3498db;
+}
+
+body{
+    color:#555;
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.nav-link{
+    font-size: 18px !important;
+    font-weight: 500;
+}
+
+.head-section{
+    background-image: linear-gradient(180deg ,#477C9C 10px,#FFFFFF)!important;
+}
+.hee-section{
+    background-image: linear-gradient(180deg, #B5C2CA ,#477C9C 10px )!important;
+}
+.seletor {
+    border-radius: 10px;
+}
+
+.navbar-brand,
+.text-primary {
+    color: #0a58ca !important;
+}
+
+.btn-primary{
+    background-color: #0a58ca !important;
+    border: none;
+}
+
+.nav-link:hover {
+    color:#0a58ca
+}
+
+P{
+    font-size:  18px;
+
+}
+
+.bnt-primary:hover{
+    background-color: #257dfd !important;
+}
+
+.blue-bg{
+    background-color: #0a58ca;
+    color: #fff;
+}
+
+.ionicons{
+    color: #0a58ca;
+    background-color: #f2f2f2;
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    margin-bottom: 12px;
+
+}
+
+.nav-tabs{
+    border: none;
+}
+
+.nav-tabs .active{
+    background-color: #0a58ca !important;
+    border: none;
+    color: #fff !important
+}
+
+.footer-section{
+    background-color: #0a58ca !important;
+    border: none;
+    color: #fff !important;
+}
+
+.fonte-titulo{
+    font-family: "Pacifico", cursive;
+}
+
+
+.card-largura{
+    max-width: 18rem;
+}
+
+.cor{
+    color:#477C9C;
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 400px;
+}
+.img{
+    width: 280px !important; 
+            height: auto; 
+            object-fit: cover;
+}
+
+.img-modal{
+    width: 50px !important; 
+            height: auto; 
+            
+}
+
+.funt{
+    background-color: transparent;
+    border: transparent;
+}
+
+.botao-cor-especial {
+    background-color:#477C9C;
+    color: rgb(2, 13, 70);
+}
+
+.botao-cor-especial:hover {
+    background-color: rgb(0, 178, 248);
+    color: rgb(12, 1, 1);
+
+}
+
+.gm{
+    width: 500px !important; 
+            height: auto; 
+            object-fit: cover;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+}
+   
+    
+.gi{
+    width: 600px !important; 
+    height: auto; 
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+        
+}
+
+.carroc{
+    width: 400px !important ;
+    height: auto; 
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagem-reduzida {
+    width: 50%; 
+    height: auto; 
+  }
+
+  .cotr {
+    text-align: center;
+    display: block;
+   margin: 0 auto;
+  }
+
+.ico{
+    width: 40px ;
+    height:auto ;
+    color:#0a58ca
+}
